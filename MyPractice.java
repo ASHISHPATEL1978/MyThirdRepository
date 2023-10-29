@@ -4,7 +4,7 @@ package practicepackage;
 /* UPDATED PROGRAMME */
 
 
-// MODIFIED
+/* MODIFIED */
 
 /* Modified Again */
 
